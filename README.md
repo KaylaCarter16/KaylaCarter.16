@@ -7,7 +7,7 @@
  
 <h2>👨‍💻 Certifications:</h2>
 
-- <b>CompTIA Security+ Certification - Expected 2/2024</b>
+- <b>CompTIA Security+ Certification </b>
 
 - <b>Google Cybersecurity Certification</b>
   - [Cybersecurity Certification](https://coursera.org/share/5a41d4bab3207619085432fe21c48817)
